@@ -5,7 +5,7 @@ using namespace std;
 class Solution{
 public:
 
-void maximumConsecutive1s (vector<int>&nums){
+int maximumConsecutive1s (vector<int>&nums){
     int count = 0;
     int maxCount = 0;
 
