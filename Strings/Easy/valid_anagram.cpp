@@ -1,3 +1,9 @@
+//ANAGRAM : two strings are anagram if:
+//          they contain same characters
+//          with the same frequency
+//          but possibly in different order.
+
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
