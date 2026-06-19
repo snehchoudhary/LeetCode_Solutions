@@ -1,3 +1,9 @@
+// 2 strings s and t are isomorphic if:-
+// each character in s can be replaced consistently to get t.
+// no two different characters in s can map to the same charcted in t
+// a character can map to itself.
+
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
