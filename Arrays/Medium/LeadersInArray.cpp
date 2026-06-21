@@ -25,5 +25,5 @@ public:
     }
 };
 
-//why we are not using 2 pointers??? bcoz 2 pointers only checks for next greater element but we want rightmost to be greatest of all elements in it's right.
-// so , we assumed rightmost element as the greatestand then comparing it with pointer i.
+//why we are not using 2 pointers??? bcoz 2 pointers only checks for next greater element but we want right most to be greatest of all elements in it's right.
+// so , we assumed rightmost element as the greatest and then comparing it with pointer i.
