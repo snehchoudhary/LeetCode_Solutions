@@ -41,7 +41,7 @@ public:
         ListNode*mptr = ans;
 
         while(left && right){
-            if(left->val < right->val){
+            if(left->data < right->data){
                 mptr->next = left;
                 mptr = left;
                 left = left->next;
