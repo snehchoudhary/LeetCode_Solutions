@@ -29,7 +29,7 @@ public:
 
         ListNode*temp = head;
         while (temp != NULL){
-            if (temp-> val == key){
+            if (temp-> data == key){
                 return true;
             }
             temp = temp -> next;
